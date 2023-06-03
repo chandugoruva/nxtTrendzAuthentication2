@@ -1,0 +1,11 @@
+.products {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  justify-content: center;
+  align-items: center;
+}
+.products-img {
+  height: 190px;
+  width: 90px;
+}

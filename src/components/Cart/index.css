@@ -1,0 +1,12 @@
+.cart {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  justify-content: center;
+  align-items: center;
+}
+.cart-img {
+  height: 190px;
+  width: 90px;
+}
+/* Write your CSS code here */
